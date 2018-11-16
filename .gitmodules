@@ -1,0 +1,9 @@
+[submodule "walinns-ios-sdk"]
+	path = walinns-ios-sdk
+	url = git@github.com:WalinnsAnalytics/walinns-ios-sdk.git
+[submodule "mixpanel-swift"]
+	path = mixpanel-swift
+	url = git@github.com:mixpanel/mixpanel-swift.git
+[submodule "WalinnsAPI"]
+	path = WalinnsAPI
+	url = git@github.com:WalinnsMobileAnalytics/WalinnsAPI.git

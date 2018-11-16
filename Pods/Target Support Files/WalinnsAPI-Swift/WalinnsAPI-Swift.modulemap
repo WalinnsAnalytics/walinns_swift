@@ -1,0 +1,6 @@
+framework module WalinnsAPI_Swift {
+  umbrella header "WalinnsAPI-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

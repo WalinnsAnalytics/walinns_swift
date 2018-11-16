@@ -1,0 +1,20 @@
+{
+  "name": "WalinnsTracker",
+  "version": "1.0.0",
+  "summary": "walinnslib",
+  "homepage": "https://github.com/Rejoylin/swiftLib",
+  "license": "MIT",
+  "authors": "walinns",
+  "module_name": "WalinnsTracker",
+  "platforms": {
+    "ios": "10.3"
+  },
+  "source": {
+    "git": "https://github.com/Rejoylin/swiftLib.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "WalinnsLib",
+    "WalinnsLib/**/*.{h,m,swift}"
+  ]
+}
